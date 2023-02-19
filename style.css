@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: black;
+    background-color: rgb(21, 21, 22);
     color: azure;
     font-family:sans-serif;
     
@@ -13,48 +13,61 @@ nav{
 }
 
 nav button{
-    margin-top: 300px;}
+    margin-top: 200px;}
 
 
 
 main{
     display: flex;
     justify-content: center;
-
-
 }
 
 .buttton_parent{
     display: flex;
     justify-content: center;
    
-    height: 30px;
-    margin-top: 30px;
+    height: 20px;
+    margin-top: 20px;
+
+    
+
    
 }
 
 button{
+    margin: 0px 5px;
     background-color: transparent;
     width: 120px;
     height: 30px;
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid rgb(174, 174, 174);
     border-radius: 10px;
     
 
-    color: azure;
+    color: rgb(202, 202, 202);
     font-size: 1.0rem;
 }
 
 button:hover{
-    background-color: blue;
+    background-color: rgba(14, 167, 37, 0.403);
+    box-shadow: 1px 1px 10px rgb(48, 209, 36);
   }
 
 
 #clock{
-font-size: 5rem;
+font-size: 6rem;
 
-width: 200px
 
 }
 
 
+
+
+  /* screnn phone +1*/
+  @media screen and (min-width: 768px) {
+    nav button{
+        margin-top: 300px;}
+    
+    
+  
+    }
+        
