@@ -3,8 +3,9 @@
 
 function startcountdown(){
     document.getElementById('start').style.display = 'none';
+    document.getElementById('clock').style.color = 'rgb(48, 209, 36)';
     // Set the countdown start time
-    let countDownDate = new Date().getTime() + (1 * 60 * 1000);
+    let countDownDate = new Date().getTime() + (25 * 60 * 1000);
 
     // Update the countdown every second
     let countdownInterval = setInterval(function() {
