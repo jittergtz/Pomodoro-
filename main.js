@@ -46,7 +46,7 @@ function startcountdown(){
         durationNumber.innerHTML = parseInt(durationNumber.innerHTML) + 1;
         if (parseInt(durationNumber.innerHTML) == 5) {
             durationNumber.style.color = 'rgb(48, 209, 36)';
-            alert("You reached your'e Goal good job🗿")
+          
           }
 
     }
@@ -82,7 +82,7 @@ function startShortPause(){
     clearInterval(countdownInterval3); 
  
 
-     document.getElementById('clock').style.color = ' rgb(55, 102, 232)';
+     document.getElementById('clock').style.color = 'rgb(228, 216, 42)';
     // Set the countdown start time
     let countDownDate = new Date().getTime() + (5 * 60 * 1000);
 
@@ -144,7 +144,7 @@ function startLongPause(){
     clearInterval(countdownInterval3); 
      
 
-     document.getElementById('clock').style.color = ' rgb(55, 102, 232)';
+     document.getElementById('clock').style.color = 'rgb(228, 216, 42)';
     // Set the countdown start time
     let countDownDate = new Date().getTime() + (10 * 60 * 1000);
 
@@ -188,10 +188,5 @@ function clearCountdown() {
 
      // Reset the clock display to the original value
      document.getElementById("clock").innerHTML = "10:00";
-  
-
-  
-
   }
 }
-
