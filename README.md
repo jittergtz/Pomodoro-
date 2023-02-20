@@ -9,7 +9,6 @@ here is the Link take a look:)
 
 https://gleeful-souffle-146dd4.netlify.app
 
-
-<img width="528" alt="Bildschirm­foto 2023-02-20 um 15 50 58" src="https://user-images.githubusercontent.com/110451040/220138675-cf3a1a28-11bf-487b-a6c8-d3a0566a6223.png">
-<img width="719" alt="Bildschirm­foto 2023-02-20 um 15 50 40" src="https://user-images.githubusercontent.com/110451040/220138709-e74c2c53-b288-4c2b-b80b-43e2f45e7cdd.png">
-<img width="699" alt="Bildschirm­foto 2023-02-20 um 15 49 52" src="https://user-images.githubusercontent.com/110451040/220138746-d5d9144a-6a09-4195-a7f8-41e5232109d9.png">
+<img width="699" alt="Bildschirm­foto 2023-02-20 um 15 49 52" src="https://user-images.githubusercontent.com/110451040/220139017-b6acf443-a6a3-463a-8865-644b3507b1d6.png">
+<img width="719" alt="Bildschirm­foto 2023-02-20 um 15 50 40" src="https://user-images.githubusercontent.com/110451040/220139080-2b07b492-327a-48ae-97ef-8e04be7d4b84.png">
+<img width="528" alt="Bildschirm­foto 2023-02-20 um 15 50 58" src="https://user-images.githubusercontent.com/110451040/220139089-332c7898-6bb8-4d72-8c2d-c9c41187b806.png">
